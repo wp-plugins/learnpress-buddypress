@@ -14,7 +14,7 @@ LearnPress buddyPress bring wonderful profile page for LearnPress.
 
 [LearnPress](https://wordpress.org/plugins/learnpress) BuddyPress plugin adds BuddyPress integration to the LearnPress WordPress LMS Plugin - view the courses a student has taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with LearnPress buddyPress plugin.
 
-**Free add-on for LearnPress WordPress LMS Plugin:**
+**Free add-ons for LearnPress WordPress LMS Plugin:**
 
 - <a href="https://wordpress.org/plugins/learnpress-wishlist" target="_blank">Wishlist</a> - add courses to a Wishlist for students.
 - <a href="https://wordpress.org/plugins/learnpress-course-review" target="_blank">LearnPress Course Review</a> - review course for enrolled students.
