@@ -1,7 +1,7 @@
-===  LearnPress BuddyPress Integration ===
+===  LearnPress BuddyPress - WordPress add-on for LearnPress LMS plugin ===  
 Contributors: thimpress, kendy73, tunnhn  
-Donate link: http://thimpress.com/learnpress
-Tags: learnpress, buddypress, lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes
+Donate link:  
+Tags: lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses  
 Requires at least: 3.8  
 Tested up to: 4.2.2  
 Stable tag: trunk  
@@ -12,17 +12,17 @@ LearnPress buddyPress bring wonderful profile page for LearnPress.
 
 == Description ==  
 
-[LearnPress](https://wordpress.org/plugins/learnpress) BuddyPress plugin adds BuddyPress integration to the LearnPress WordPress LMS Plugin - view the courses a student has taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with LearnPress buddyPress plugin.
+You can view the courses you have taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with LearnPress buddyPress plugin.  
 
-**Free add-ons for LearnPress WordPress LMS Plugin:**
+**Other free add-ons for LearnPress are available in WordPress:**  
 
-- <a href="https://wordpress.org/plugins/learnpress-wishlist" target="_blank">Wishlist</a> - add courses to a Wishlist for students.
-- <a href="https://wordpress.org/plugins/learnpress-course-review" target="_blank">LearnPress Course Review</a> - review course for enrolled students.
-- <a href="https://wordpress.org/plugins/learnpress-import-export" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.
-- <a href="https://wordpress.org/plugins/learnpress-prerequisites-courses" target="_blank">LearnPress Prerequisites Courses</a> - require student to pass some courses in order to enroll other course.
+- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">Wishlist</a> - add courses to a wishlist for students.  
+- <a href="https://wordpress.org/plugins/learnpress-course-review/" target="_blank">LearnPress Course Review</a> - review course for enrolled students.  
+- <a href="https://wordpress.org/plugins/learnpress-import-export/" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.  
+- <a href="https://wordpress.org/plugins/learnpress-prerequisites-courses/" target="_blank">LearnPress Prerequisites Courses</a> - require student to pass some courses in order to enroll other course.  
 - <a href="https://wordpress.org/plugins/learnpress-bbpress" target="_blank">LearnPress bbPress</a> - add bbPress Forum support for LearnPress.  
 
-**Premium add-ons for LearnPress WordPress LMS Plugin:**
+**Premium Plugins (add-ons) for LearnPress WordPress LMS Plugin**
 
 - <a href="http://thimpress.com/shop/certificates-add-on-for-learnpress/" target="_blank">Certificates add-on for LearnPress</a> - adding drag & drop certificates builder as well as selecting designed certificate for each LMS course, your student will get particular certificate when they finished a course.  
 - <a href="http://thimpress.com/shop/co-instructors-add-on-for-learnpress/" target="_blank">Co-instructors add-on for LearnPress</a> - multiple instructors support for each LMS course.  
@@ -46,16 +46,24 @@ LearnPress buddyPress bring wonderful profile page for LearnPress.
 = Can I create an add-on for LearnPress like LearnPress buddyPress by myself? =  
 Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki" target>LearnPress github repo.</a>
 
-== Screenshots ==
+== Screenshots ==  
 
-== Changelog ==
+1. LearnPress bbPress screenshot
+
+== Changelog ==  
+
+= 0.9.2 =  
+1. Updated language file
+
+= 0.9.1 =  
+1. Updated profile method    
 
 = 0.9.0 =  
-- The first beta release.
+The first beta release.
 
 == Upgrade Notice ==  
-- Later :)
+Later :)
 
 == Other note ==  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
-<a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress GitHub repo.</a>
+<a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a>
